@@ -1,4 +1,4 @@
-Employee Leave Tracker System 🚀
+# Employee Leave Tracker System 🚀 
 Welcome to the Employee Leave Tracker System! This is a Java-based console application designed to manage employee leave requests efficiently. Built with Hibernate for database operations and MySQL for data storage, it supports roles for Employees, Managers, and Admins, with robust input validation and Gmail-only email support. 🌟
 📖 Overview
 The Employee Leave Tracker System allows:
